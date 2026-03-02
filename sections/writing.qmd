@@ -1,0 +1,15 @@
+---
+title: "Writing Advice"
+---
+
+Tips and resources for improving your academic writing in economics.
+
+- [Claudia Goldin & Lawrence Katz: The Ten Most Important Rules of Writing Your Job Market Paper](https://economics.harvard.edu/files/economics/files/tenruleswriting.pdf)
+- [John Cochrane: Writing Tips for Ph.D. Students](https://www.fma.org/assets/docs/membercontent/writing_cochrane.pdf)
+- [Plamen Nikolov: Writing Tips for Economics Research Papers](https://dash.harvard.edu/bitstream/handle/1/11041649/WritingTips_0720.pdf?sequence=5&isAllowed=y)
+- [Claudia Sahm: Writing Economics Research Papers](http://macromomblog.com/wp-content/uploads/2021/09/ClaudiaSahm_WritingEcon.pdf)
+- [Don Cox: The Big 5 — How to Write the Introduction of a Presentation (and Paper)](https://econ.lse.ac.uk/staff/spischke/phds/The%20Big%205.pdf)
+- [Arthur Turrell: Writing Papers (Coding for Economists)](https://aeturrell.github.io/coding-for-economists/craft-writing-papers.html)
+- [Keith Head: Formula for Writing an Introduction](https://blogs.ubc.ca/khead/research/research-advice/formula)
+- [Albert Ma: On Writing Economics Papers](https://people.bu.edu/ma/writing-paper.pdf)
+- [Eric Sims: PhD & Writing Workshop](https://sites.nd.edu/esims/courses/research-writing-workshop-spring-2023/)

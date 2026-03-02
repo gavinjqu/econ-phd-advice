@@ -1,0 +1,55 @@
+---
+title: "The Job Market"
+---
+
+Advice on navigating the economics job market.
+
+## General Advice
+
+- [Eric Zwick: Love the Market](http://www.ericzwick.com/public_goods/love_the_market.pdf)
+- [John Cawley: A Guide and Advice for Economists on the US Job Market](https://www.aeaweb.org/content/file?id=869)
+- [Chicago Students: Economics Job Market Advice](https://economics.ucla.edu/wp-content/uploads/2017/04/Advice_Chicago.pdf)
+- [David Smerdon: How to Survive the Economics Job Market](https://www.davidsmerdon.com/?p=1935)
+- [Kim Cramer: Columbia Job Market Advice](https://www.kimfecramer.com/public-goods)
+
+## Job Market Materials
+
+- [Johannes Pfeifer: Job Market Resources](https://sites.google.com/site/pfeiferecon/job-market-resources)
+- [Michael Ewens: Job Market Websites](https://t.co/mVArTaI9gD)
+- [Kelsi Hobbs: Job Market Materials](https://github.com/kghobbs/job-market-materials)
+  — Template repository for organizing job market materials.
+- [AYEW: Economics Job Market Roundtable (Video)](https://www.youtube.com/watch?v=7nwsHKsLdjg)
+
+## The European Job Market
+
+- [David Schindler: Guide to the European Job Market](http://david-schindler.de/guide-to-the-european-job-market/)
+- [Michela Carlana: EEA Guide for European Job Market Candidates](https://www.europeanjobmarketofeconomists.org/uploads/Job-Market-Guide-EEA-Website-Michela-Carlana-with-EAYE-Interventions.pdf)
+
+### EJME Info Session 2022
+
+- [Part I](https://david-schindler.de/EJME_Part1.pdf)
+- [Part III](https://david-schindler.de/EJME_Part3.pdf)
+- [Part IV](https://david-schindler.de/EJME_Part4.pdf)
+
+### EJME Info Session 2023
+
+- [Part I](https://www.dropbox.com/scl/fi/cwlrl7sg91ytrpk9tr967/European-Job-Market-Morning-Part-I.pdf?rlkey=hyvgaiu3rvs4umi8hr1uakmpb&dl=0)
+- [Part II — Mental Health](https://www.dropbox.com/scl/fi/gph4kffa623g295942445/European-Job-Market-Morning-Part-II.pdf?rlkey=whwgugunnaafzd5hhdq5b3eqc&dl=0)
+- [Part III](https://www.dropbox.com/scl/fi/5xhu7qwl01kh9jurwl17o/European-Job-Market-Morning-Part-III.pdf?rlkey=yfko2jvx4djqr20ijgjm7mz79&dl=0)
+- [Part IV](https://www.dropbox.com/scl/fi/h7ff3tg7t58mi6tgavxia/European-Job-Market-Morning-Part-IV.pdf?rlkey=fkrtvc2ka6bgu3ieet80kxlaz&dl=0)
+- [Part V](https://www.dropbox.com/scl/fi/yi21031avkhhnwa7lmizu/European-Job-Market-Morning-Part-V.pdf?rlkey=32rzznjsqinpxow391zv6lbqm&dl=0)
+
+### EJME Info Session 2024
+
+- [Part I](https://www.dropbox.com/scl/fi/0ah0c8ra2olaolmlwt9nb/European-Job-Market-Morning-Part-I.pdf?rlkey=2bsncygq9f5p33jrg5ooqgmss&dl=0)
+- [Part III](https://www.dropbox.com/scl/fi/57bk23ejmhioywuker2m6/European-Job-Market-Morning-Part-III.pdf?rlkey=q34cemgp8wo4c16wih8ecu4dr&dl=0)
+- [Part IV](https://www.dropbox.com/scl/fi/7ja08dlum67ueo7i47x9t/European-Job-Market-Morning-Part-IV.pdf?rlkey=10o9jqzruyjwpq6h8ot68sgpo&dl=0)
+- [Part V](https://www.dropbox.com/scl/fi/gst22jarrmzz53ps7vc9t/European-Job-Market-Morning-Part-V.pdf?rlkey=b1b0cj4gk67j7x5d5p4e4z7j2&dl=0)
+
+### EJME Info Session 2025
+
+- [Part I](https://www.dropbox.com/scl/fi/f7ff3w7uge27g3si7d0im/Part1.pdf?rlkey=edgpjezo7bnpei0bnjkwtodf0&dl=0)
+- [Part II](https://www.dropbox.com/scl/fi/3qz5nm271xqtnk4hifeav/Part2.pdf?rlkey=jtug0sny3r1a2pzf9unz0ii6r&dl=0)
+- [Part III](https://www.dropbox.com/scl/fi/s1wwsdu2cqa0mb5ajx80h/European-Job-Market-Morning-Part-III.pdf?rlkey=jej6s7fyiz5nrofk06m5mwhn6&dl=0)
+- [Part IV](https://www.dropbox.com/scl/fi/s9oozulwlruhwb0n5lsid/European-Job-Market-Morning-Part-IV.pdf?rlkey=uw8ojuz3rlrffr1l3eibt48ig&dl=0)
+- [The Signaling Mechanism](https://www.dropbox.com/scl/fi/7shkyyfzcir2i1zg3x7sj/EJME_2025_Signaling.pdf?rlkey=4fbjdbiaeavnzxjcxadchgk6p&dl=0)

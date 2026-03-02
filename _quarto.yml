@@ -1,0 +1,49 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+    - "sections/*.qmd"
+    - "!CLAUDE.md"
+
+website:
+  title: "Advice for PhD Students in Economics"
+  repo-url: https://github.com/gjqu/econ-phd-advice
+  repo-actions: [edit, issue]
+  search: true
+
+  sidebar:
+    style: docked
+    contents:
+      - index.qmd
+      - section: "Pre-PhD"
+        contents:
+          - sections/undergrad.qmd
+          - sections/applying.qmd
+      - section: "During the PhD"
+        contents:
+          - sections/general.qmd
+          - sections/ideas.qmd
+          - sections/ideas-to-papers.qmd
+          - sections/writing.qmd
+          - sections/presentations.qmd
+          - sections/datasets-coding.qmd
+          - sections/ai-research.qmd
+          - sections/mental-health.qmd
+          - sections/ra-resources.qmd
+          - sections/conferences.qmd
+          - sections/funding.qmd
+          - sections/mentoring.qmd
+          - sections/refereeing.qmd
+          - sections/job-market.qmd
+
+  page-footer:
+    center: |
+      A community-driven project — inspired by work from
+      [Chris Roth](https://www.chris-roth.com/) &
+      [David Schindler](https://www.davidschindler.org/).
+      [Contribute on GitHub](https://github.com/gjqu/econ-phd-advice).
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css

@@ -1,0 +1,10 @@
+---
+title: "Funding"
+---
+
+Funding opportunities, grants, and fellowships for economics PhD students.
+
+- [AEA CSWEP: Getting Research Funding](https://www.aeaweb.org/content/file?id=15929)
+- [Matthew Jackson & Laura Razzolini: Getting Funding from the NSF](https://web.stanford.edu/~jacksonm/nsfpost.pdf)
+- [Anne Byrne: Small Grants (Spreadsheet)](https://docs.google.com/spreadsheets/d/17UlG3Er7MD1EajGIyiiI-adCw77RfWTkFeU9kpp2-zI/htmlview)
+  — Curated list of small grant opportunities for graduate students.

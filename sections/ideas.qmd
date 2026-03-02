@@ -1,0 +1,15 @@
+---
+title: "Finding Research Ideas"
+---
+
+Resources on how to find and develop research ideas in economics.
+
+- [Matt Lowe: How to Generate Ideas (Twitter Thread)](https://twitter.com/hmmlowe/status/1281317062149718016)
+- [Matt Lowe: Idea Creation in Class (Twitter Thread)](https://twitter.com/hmmlowe/status/1258141915385487360)
+- [Paul Niehaus: Doing Research](https://medium.com/@paul.niehaus/doing-research-18cb310529e0)
+- [Steve Pischke: How to Get Started in Research?](https://econ.lse.ac.uk/staff/spischke/phds/get_started.pdf)
+- [Don Davis: PhD Thesis Research — Where Do I Start?](http://www.columbia.edu/~drd28/Thesis%20Research.pdf)
+- [Frank Schilbach: 5 Steps Towards a Paper](https://www.dropbox.com/s/q7wjaidl5w91srt/Guest%20lecture%20FS.pdf?dl=0)
+- [Shiv Hastawala: Developing Ideas for Applied Micro Development Papers](https://www.shivhastawala.com/resources/new-dev-econ-research-ideas)
+- [Some Principles of Econ Theory Research (Twitter Thread)](https://twitter.com/djthornton97/status/1661905185705435136)
+- [Krishna Srinivasan: Is an Idea Worth Pursuing? Checklist](https://krishnasrini.com/RQ.html)

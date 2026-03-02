@@ -1,0 +1,14 @@
+---
+title: "Resources for Research Assistants"
+---
+
+Guides and tools for research assistants working in economics.
+
+- [Econ RA India](https://aadityadar.github.io/econ_ra_india/)
+  — Resources specifically for research assistants in India.
+- [Research Assistant Guide](https://raguide.github.io/)
+- [GSLab RA Manual](https://github.com/gslab-econ/ra-manual/wiki/Introduction)
+  — Stanford GSLab's manual covering best practices for economics RAs.
+- [Poverty Action Guides](https://povertyaction.github.io/guides/)
+  — IPA's field guides for research implementation.
+- [Julian Reif: Stata Coding Guide](https://julianreif.com/guide/)

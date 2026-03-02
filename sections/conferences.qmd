@@ -1,0 +1,9 @@
+---
+title: "Conferences"
+---
+
+Listings of economics conferences, workshops, and summer schools.
+
+- [Amma Panin & Marco Schwarz: Conferences and Workshops in Behavioral and Experimental Economics](https://docs.google.com/spreadsheets/d/e/2PACX-1vSp9Cht-T-NsropS3NhW3E3pC5kMHdSAh7gI2-KONxpXl-NrN5R6yRbeiTuHip5hwBvFHi6tRTlNQ-n/pubhtml)
+- [Barton Willage & Anne Burton: List of Econ Conferences](https://annemburton.com/economics-conferences)
+- [Apurav Bhatiya: Conferences in Political Economy (Twitter Thread)](https://twitter.com/apuravbhatiya/status/1581957089559482369)

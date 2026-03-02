@@ -1,0 +1,13 @@
+---
+title: "Datasets and Coding"
+---
+
+Datasets, programming tools, and coding resources for empirical economics research.
+
+- [Pietro Biroli: List of Datasets for Applied Work](https://sites.google.com/site/pietrobiroli/resources#h.sb016q218z72)
+- [Martin Halla: Microdata](https://sites.google.com/site/mhalla1980/home/econ-stuff?authuser=0)
+- [Coding for Economists](https://aeturrell.github.io/coding-for-economists/intro.html)
+  — A comprehensive guide to Python, data analysis, and coding best practices for economists.
+- [Julian Reif: Stata Coding Guide](https://julianreif.com/guide/)
+- [Gabor Bekes & Gabor Kezdi: Data Analysis](https://gabors-data-analysis.com/)
+  — Textbook and resources on data analysis for business, economics, and policy.

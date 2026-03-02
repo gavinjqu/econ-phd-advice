@@ -1,0 +1,14 @@
+---
+title: "Refereeing"
+---
+
+Advice on writing referee reports and navigating the peer review process.
+
+- [Andrea Passalacqua: Guidelines to Write a Referee Report](https://scholar.harvard.edu/files/apassalacqua/files/refguidelines_tepe.pdf)
+- [Berk, Harvey & Hirshleifer: How to Write an Effective Referee Report and Improve the Scientific Review Process](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.31.1.231)
+- [Berk, Harvey & Hirshleifer: Preparing a Referee Report — Guidelines and Perspectives](https://www.aeaweb.org/content/file?id=222)
+- [Hamermesh: Facts and Myths about Refereeing](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.8.1.153)
+- [JFE: Advice for Referees](https://www.jfinec.com/referees)
+- [Chris Roth: Constructive Refereeing](https://raw.githubusercontent.com/cproth/papers/master/ConstructiveRefereeing.pdf)
+- [Chris Roth et al.: Bias Awareness in Refereeing (Null Results)](https://raw.githubusercontent.com/cproth/papers/master/Nullresultpenalty_EJfinal.pdf)
+  — On the penalty for null results in the review process.

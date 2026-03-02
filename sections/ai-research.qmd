@@ -1,0 +1,7 @@
+---
+title: "AI in Research"
+---
+
+Resources on using AI and large language models in economics research.
+
+- [Ingar Haaland: Integrating ChatGPT Into Your Research](https://drive.google.com/file/d/1VCuTw8LyXviy5DdMbUNVvTvOXD5XyjFK/view)

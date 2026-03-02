@@ -1,0 +1,50 @@
+---
+title: "Advice for PhD Students in Economics"
+---
+
+Welcome! This site is a curated collection of resources and advice for
+economists at every stage of the academic pipeline — from undergraduates
+considering a PhD to students navigating the job market.
+
+## Who is this for?
+
+**Undergrads exploring the PhD path.** The [Pre-PhD]{.fw-bold} sections cover
+whether a PhD is right for you, how to prepare your application, and what
+pre-doctoral opportunities exist.
+
+**Current PhD students.** The [During the PhD]{.fw-bold} sections cover
+everything from finding research ideas and writing papers to presenting your
+work, managing your mental health, and surviving the job market.
+
+## What you'll find
+
+### Pre-PhD
+
+- **Undergrad resources** — deciding whether a PhD is right for you, building
+  your profile, pre-doctoral programs, and math preparation.
+- **Applying to grad school** — application strategy, statement writing, and
+  choosing programs.
+
+### During the PhD
+
+- **Research** — finding ideas, turning them into papers, writing, and
+  presenting.
+- **Tools** — datasets, coding resources, and using AI in research.
+- **Professional development** — the job market, conferences, funding,
+  mentoring, and refereeing.
+- **Well-being** — mental health resources and support for research assistants.
+
+## Origins
+
+This collection was originally created by
+[Chris Roth](https://www.chris-roth.com/) and
+[David Schindler](https://www.davidschindler.org/) as a
+[Google Sites page](https://sites.google.com/view/econgradadvice/). It has been
+migrated to this open-source Quarto website so the community can contribute and
+keep it up to date.
+
+## Contributing
+
+Found a great resource? Spotted a broken link? Contributions are welcome!
+Visit the [GitHub repository](https://github.com/gjqu/econ-phd-advice)
+to open a pull request or file an issue. See the contributing guide for details.

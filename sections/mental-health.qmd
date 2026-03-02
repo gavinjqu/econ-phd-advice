@@ -1,0 +1,12 @@
+---
+title: "Mental Health"
+---
+
+Mental health resources and support for graduate students in economics.
+
+- [Frank Schilbach: Resources on Mental Health](https://docs.google.com/document/d/16RHF_WtFBWG5uxfNymxMyYVN4Ui2E40yZToTu1JdgXg/edit)
+- [Scott Cunningham: Mental Health and Success (Slides)](https://www.dropbox.com/s/mcvazhmel97ho71/Keynote%20Mental%20Health-7.pdf?dl=0)
+- [PeacehD](https://peacehdforphd.com/en/)
+  — Platform dedicated to mental health support for PhD students.
+- [Chris Roth: Practical Advice on Meditation (Slides)](https://raw.githubusercontent.com/cproth/papers/master/meditation_slides.pdf)
+- [Chris Roth: Meditation and the Choice of Frames](https://raw.githubusercontent.com/cproth/papers/master/meditation_framing.pdf)

@@ -1,0 +1,38 @@
+---
+title: "General Advice"
+---
+
+Broad advice on navigating the economics PhD from start to finish.
+
+- [Jaya Wen: Ideas That Helped Me](https://docs.google.com/document/d/1FY3ywyHNVfOHRn_dHLTvzWoMWbp51lPn64PBdkryZYw/edit)
+- [Eric Zwick: The 12 Step Program for Grad School](http://www.ericzwick.com/public_goods/twelve_steps.pdf)
+- [Matthew Pearson: How to Survive Your First Year of Graduate School in Economics](https://law.vanderbilt.edu/phd/How_to_Survive_1st_Year.pdf)
+- [Chris Roth & David Schindler: Advice for Ph.D. Students](https://raw.githubusercontent.com/cproth/papers/master/advice_for_phd_students.pdf)
+- [Ingar Haaland: Twitter Thread on PhD Advice](https://twitter.com/Ingar30/status/1685616166239436800)
+- [Berlin School of Economics: Researcher's Guide](https://berlinschoolofeconomics.de/fileadmin/user_upload/Researchers_Guide_-_web_version.pdf)
+  — Comprehensive guide covering the full PhD lifecycle at BSE.
+- [William Thomson: A Guide for the Young Economist (Book)](https://www.amazon.com/gp/product/026251589X)
+- [P.J. Healy: The Backwards Induction Approach to Grad School](https://healy.econ.ohio-state.edu/papers/PJsAdviceLecture.pdf)
+  — Plan your PhD by working backwards from your desired outcome.
+- [The Hidden Curriculum (Podcast)](https://anchor.fm/hidden-curriculum)
+  — Podcast exploring the unwritten rules of academia.
+- [Chris Blattman: Various Pieces of Professional Advice](https://chrisblattman.com/)
+- [Greg Mankiw: Advice for Grad Students](http://gregmankiw.blogspot.com/2006/05/advice-for-grad-students.html)
+- [World Bank Blogs: Curated Miscellanea](https://blogs.worldbank.org/impactevaluations/curated-miscellanea-interviews-advice-policy-debates-and-commonly-referred-to-posts)
+  — Interviews, advice, policy debates, and commonly referred-to posts.
+- [Andrew Oswald: Things I Would Have Found Useful to Know as a Young Researcher](https://www.andrewoswald.com/docs/OswaldAdviceTalkPhDYoungfacultyresearcherswarwicktalk.pdf)
+- [Jeffrey Smith: Advice on Graduate School in Economics](https://ssc.wisc.edu/~econjeff/TEACHING/Advice%20on%20Graduate%20School%20in%20Economics%200817.pdf)
+- [Jennifer Doleac: Resource Collection](http://jenniferdoleac.com/resources/)
+- [Shanjun Li: Collection of Resources for PhD Students](http://li.dyson.cornell.edu/phdRes.php)
+- [INOMICS: PhD Advice](https://inomics.link/inomics-phd-application-guide)
+- [The Econ Resources & Grad School Wiki](https://www.visualizecuriosity.com/econ-wiki)
+- [Tobias Klein: Links for PhD Students](https://www.tobiasklein.ws/ph-d-students)
+- [Alex Albright: Various Resources](https://thelittledataset.com/other-resources/)
+- [Quan Le: Collection of Resources](https://qlquanle.github.io/links.html)
+- [Keith Head: Collection of Research Advice](https://blogs.ubc.ca/khead/research/research-advice)
+- [Albert Ma: A Beautiful Mind](https://people.bu.edu/ma/Beautiful%20Mind.pdf)
+  — Reflections on the life of a researcher.
+- [Natalia Emanuel: Collection of Resources](https://www.nataliaemanuel.com/public-goods)
+- [Thriving in Economics (Book Series)](https://econ4ua.org/thriving-in-economics/)
+- [Marc F. Bellemare: Doing Economics (Book)](https://marcfbellemare.com/wordpress/research/doing-economics)
+- [Mitali Mathur: Flourishing in the First Year](https://mitali-mathur.github.io/blog/2023/first-year-blog/)

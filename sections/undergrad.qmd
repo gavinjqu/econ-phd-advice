@@ -1,0 +1,33 @@
+---
+title: "For Undergraduates Considering a PhD"
+---
+
+Resources for undergraduates exploring whether an economics PhD is the right path, and how to prepare.
+
+## Deciding Whether a PhD Is Right for You
+
+- [Susan Athey: Professional Advice](https://gsb-faculty.stanford.edu/susan-athey/professional-advice/)
+  — Candid advice on the PhD from a Clark Medal winner, including what to expect.
+- [Miles Kimball: The Complete Guide to Getting into an Economics PhD Program](https://qz.com/116081/the-complete-guide-to-getting-into-an-economics-phd-program/)
+- [Rachael Meager: For the Ambitious, Prospective Ph.D. Student](https://economics.com.au/2012/03/27/for-the-ambitious-prospective-phd-student-a-guide/)
+
+## Preparing Your Profile
+
+- [Reed Walker: Paths to Graduate School (Slides)](https://drive.google.com/file/d/1WGnvGYj9qm8V2l4ynM4Vu7om3-RrM_JU/view?usp=sharing)
+  — Overview of what opportunities matter for grad school admissions (see slide 8 in particular).
+- [Jesse Shapiro: Notes on Applying for a PhD in Economics](https://scholar.harvard.edu/files/shapiro/files/phdnotes.pdf)
+
+## Pre-PhD Opportunities
+
+- [Scott Cunningham: Interview with Rocío Titiunik](https://causalinf.substack.com/p/s2e14-interview-with-rocio-titiunik)
+  — Her journey to grad school and how she developed her career in RD methodology.
+- [Claes Bäckman: Tips for PhD Students](https://sites.google.com/view/claesbackman/tips-for-phd-students?authuser=0)
+- [Steve Pischke: Resources for Economics PhD Students](https://econ.lse.ac.uk/staff/spischke/phds/)
+- [Unofficial Guidebook on Surviving the PhD](https://drive.google.com/file/d/1wSW9DPzGn6hN1IC-yR70sA21U96Ino_w/view?usp=sharing)
+
+## Mathematics Preparation
+
+- [Terence Tao: An Introduction to Measure Theory](https://terrytao.wordpress.com/wp-content/uploads/2012/12/gsm-126-tao5-measure-book.pdf)
+  — Free textbook on measure theory, a key mathematical foundation for advanced economics.
+- [Terence Tao: Advice on Writing Papers](https://terrytao.wordpress.com/advice-on-writing-papers/)
+  — Mathematical writing advice from a Fields Medal winner.

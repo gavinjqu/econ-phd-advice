@@ -1,8 +1,8 @@
-# Econ Grad Advice — Project Guide for Claude Code
+# Econ PhD Advice — Project Guide for Claude Code
 
 ## Project Overview
 
-This is a community-maintained, open-source collection of resources and advice for PhD students in economics. It was originally a Google Sites page (https://sites.google.com/view/econgradadvice/) created by Chris Roth and David Schindler. We are migrating it to a **Quarto website** hosted on GitHub Pages so the community can contribute via pull requests and issues.
+This is a community-maintained, open-source collection of resources and advice for PhD students in economics — and for undergrads considering a PhD. It was originally a Google Sites page (https://sites.google.com/view/econgradadvice/) created by Chris Roth and David Schindler. We are migrating it to a **Quarto website** hosted on GitHub Pages so the community can contribute via pull requests and issues. We are also expanding the scope to include resources for undergraduates exploring the path to an econ PhD, drawing on sources like Aaron C. Watt's advice page (https://acwatt.net/advice/) and others.
 
 ## Tech Stack
 
@@ -13,10 +13,11 @@ This is a community-maintained, open-source collection of resources and advice f
 ## Project Structure
 
 ```
-econ-grad-advice/
+econ-phd-advice/
 ├── _quarto.yml            # Main Quarto config (site title, navbar, sidebar, theme)
 ├── index.qmd              # Homepage / landing page
 ├── sections/              # One .qmd file per topic category
+│   ├── undergrad.qmd      # For undergrads considering a PhD in economics
 │   ├── general.qmd        # General grad school advice
 │   ├── applying.qmd       # Applying to grad school
 │   ├── ideas.qmd          # Finding and developing research ideas
@@ -40,6 +41,37 @@ econ-grad-advice/
 ├── styles.css              # Custom CSS overrides (minimal)
 └── README.md               # Repo overview for GitHub visitors
 ```
+
+## Sidebar Organization
+
+The sidebar should group pages into two logical sections to reflect the two audiences:
+
+```yaml
+# In _quarto.yml sidebar contents:
+- section: "Pre-PhD"
+  contents:
+    - sections/undergrad.qmd
+    - sections/applying.qmd
+
+- section: "During the PhD"
+  contents:
+    - sections/general.qmd
+    - sections/ideas.qmd
+    - sections/ideas-to-papers.qmd
+    - sections/writing.qmd
+    - sections/presentations.qmd
+    - sections/datasets-coding.qmd
+    - sections/ai-research.qmd
+    - sections/mental-health.qmd
+    - sections/ra-resources.qmd
+    - sections/conferences.qmd
+    - sections/funding.qmd
+    - sections/mentoring.qmd
+    - sections/refereeing.qmd
+    - sections/job-market.qmd
+```
+
+This keeps the undergrad page prominent and easy to find for that audience, while the bulk of the site remains PhD-focused.
 
 ## Content Format
 
@@ -67,6 +99,19 @@ Brief intro sentence describing what this section covers.
 - Preserve all original links from the Google Sites page; mark any confirmed dead links with `<!-- DEAD LINK -->` so they can be tracked in issues
 - New resources should be added at the **end** of their section (chronological ordering)
 
+### The Undergrad Section
+
+The `sections/undergrad.qmd` page targets undergraduates who are curious about or actively planning to pursue a PhD in economics. It should cover:
+
+- **Deciding whether a PhD is right for you** — honest perspectives on what a PhD entails
+- **Preparing your profile** — coursework (math, stats, programming), research experience, letters of recommendation
+- **Pre-PhD opportunities** — RA positions, pre-doctoral programs, gap year advice
+- **Mathematics preparation** — resources for building the math foundation needed for a PhD
+
+Initial seed content comes from Aaron C. Watt's advice page (https://acwatt.net/advice/), specifically the "Advice for Undergrads" and "Mathematics" sections. Some of Watt's grad-student-focused links may duplicate resources already in other sections — that's fine, deduplicate where obvious but don't obsess over it.
+
+This section is expected to grow significantly through community contributions since undergrad-to-PhD advice is scattered and underserved compared to the grad school advice ecosystem.
+
 ## Quarto Configuration Conventions
 
 ### `_quarto.yml`
@@ -76,12 +121,14 @@ Brief intro sentence describing what this section covers.
 - Enable search
 - Include a repo link in the navbar for easy "Edit this page" / "Report issue" flow
 - Set `repo-url` and `repo-actions: [edit, issue]` so each page gets GitHub edit/issue links
+- The repo URL is: `https://github.com/gjqu/econ-phd-advice`
 
 ### Styling
 
 - Keep it minimal and professional — this is for academics
 - Don't over-customize; the default Quarto theme is fine
 - Use `styles.css` only for small tweaks (e.g., link list spacing)
+- Include Dark Mode as a stretch goal
 
 ## Commands
 
@@ -130,5 +177,5 @@ PRs should:
 
 - Always verify links work before adding them
 - Respect the original creators' work — this is a migration, not a rewrite
-- Keep the tone welcoming to first-year PhD students
+- Keep the tone welcoming — the audience now spans undergrads through senior PhD students
 - When in doubt about structure, look at how the original Google Sites page organized things
