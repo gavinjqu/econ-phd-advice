@@ -1,4 +1,4 @@
-# Advice for PhD Students in Economics
+# Advice for Grad Students in Economics
 
 A curated, community-maintained collection of resources and advice for economists — from undergraduates exploring the PhD path to students on the job market.
 
