@@ -6,7 +6,8 @@ project:
     - "!CLAUDE.md"
 
 website:
-  title: "Advice for PhD Students in Economics"
+  title: "Advice for Economics Students"
+  site-url: https://gjqu.github.io/econ-phd-advice/
   repo-url: https://github.com/gjqu/econ-phd-advice
   repo-actions: [edit, issue]
   search: true
