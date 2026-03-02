@@ -41,8 +41,7 @@ Pull requests for small fixes are always welcome — no issue needed.
 
 ## How to submit a pull request (step by step)
 
-You don't need to be a software engineer to contribute! Here's how to add a
-resource using GitHub's web interface — no command line required.
+Here's how to add a resource using GitHub's web interface — no command line required.
 
 1. **Find the right file.** Section files live in the
    [`sections/`](https://github.com/gjqu/econ-phd-advice/tree/main/sections)
