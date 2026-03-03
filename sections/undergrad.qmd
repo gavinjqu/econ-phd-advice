@@ -39,6 +39,12 @@ is right for you and to strengthen your application. This section is a stub —
 contributions especially welcome here!
 
 <!-- TODO: Seed with links to NBER, Fed RA programs, J-PAL/IPA predocs, Opportunity Insights, etc. -->
+- [PREDOC - Pathway to Research and Doctoral Careers](https://www.predoc.org/)
+  - De facto source where most pre-doc opportunities get posted. 
+- [Riccardo Di Cato: Finding Predoc/RA Positions](https://riccardodicato.com/2021/04/23/finding_predoc_ra_positions/)
+  - A compilation of resources to find pre-doctoral opportunities. 
+- [Zahra Thabet: Pre-Doc Advice and Resources](https://zahrathabet.com/resources)
+  - She's currently a PhD student at Stanford who wrote this guide a few years ago - useful guide for finding RA and pre-doc roles. 
 <!-- Open a PR if you have resources to add: https://github.com/gjqu/econ-phd-advice -->
 
 ## Mathematics Preparation
@@ -46,6 +52,8 @@ contributions especially welcome here!
 Building a strong math foundation (real analysis, linear algebra, probability,
 and measure theory) is essential preparation for a PhD in economics.
 
+- [American Economic Association: Recommended Mathematical Training for Graduate School in Economics](https://www.aeaweb.org/resources/students/grad-prep/math-training)
+  - Mathematical course prep recommendation from the AEA, this applies to most top-100 programs. 
 - [Terence Tao: An Introduction to Measure Theory](https://terrytao.wordpress.com/wp-content/uploads/2012/12/gsm-126-tao5-measure-book.pdf)
   — Free textbook on measure theory, a key foundation for advanced econometrics and economic theory.
 - [Terence Tao: Advice on Writing Papers](https://terrytao.wordpress.com/advice-on-writing-papers/)
