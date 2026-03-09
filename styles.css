@@ -22,6 +22,20 @@ a:hover {
   color: var(--link-color) !important;
 }
 
+/* Prevent navbar resize when switching between light/dark themes */
+.navbar {
+  min-height: 56px;
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link,
+.navbar .navbar-toggler {
+  font-size: 1rem;
+  line-height: 1.5;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
 /* Dark mode toggle — larger and more prominent */
 .quarto-color-scheme-toggle {
   display: flex;

@@ -1,3 +1,7 @@
 /*-- scss:defaults --*/
 $primary: #2166AC;
 $link-color: #2166AC;
+
+/* Normalize font size across light (cosmo) and dark (darkly) themes
+   to prevent navbar and layout resizing on theme toggle */
+$font-size-base: 1rem;
