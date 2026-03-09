@@ -47,6 +47,13 @@ where it fits before anyone starts writing.
 
 Pull requests for small fixes are always welcome — no issue needed.
 
+## Development setup
+
+1. Install [Quarto](https://quarto.org/docs/get-started/) (>= 1.4)
+2. Clone the repo and run `quarto preview` to start a local dev server
+3. Edit any `.qmd` file — the preview hot-reloads on save
+4. (Optional) Install [lychee](https://github.com/lycheeverse/lychee) to check for broken links: `lychee _site/**/*.html`
+
 ## How to submit a pull request
 
 ### Local workflow (recommended)
