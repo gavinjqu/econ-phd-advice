@@ -32,3 +32,9 @@ Requires [Quarto](https://quarto.org/) >= 1.4.
 ## License
 
 Content is shared for educational purposes. Please respect the original authors' work when contributing.
+## Economics Podcasts and Media
+
+### The Mixtape with Scott
+- Link: https://podcasts.apple.com/us/podcast/the-mixtape-with-scott/id1615110472
+- Description: A podcast discussing economics research, insights, and academic perspectives.
+- Audience: Both students and professionals.
