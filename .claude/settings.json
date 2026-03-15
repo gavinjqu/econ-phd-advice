@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(/usr/local/bin/gh pr:*)",
+      "Bash(/usr/local/bin/gh issue:*)"
+    ]
+  }
+}

@@ -10,3 +10,10 @@ $font-family-sans-serif: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "
    to prevent navbar and layout resizing on theme toggle */
 $font-size-base: 1rem;
 $navbar-padding-y: 0.5rem;
+
+/* Normalize breadcrumb across themes — darkly adds a gray background
+   box with extra padding that shifts layout on toggle */
+$breadcrumb-padding-x: 0;
+$breadcrumb-padding-y: 0;
+$breadcrumb-bg: transparent;
+$breadcrumb-border-radius: 0;
