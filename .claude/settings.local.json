@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh issue:*)",
+      "WebSearch",
+      "WebFetch(domain:people.ischool.berkeley.edu)",
+      "WebFetch(domain:economics.mit.edu)",
+      "WebFetch(domain:shapiro.scholars.harvard.edu)",
+      "WebFetch(domain:david-schindler.de)",
+      "WebFetch(domain:www.economicscience.org)",
+      "WebFetch(domain:osf.io)",
+      "WebFetch(domain:blogs.worldbank.org)",
+      "WebFetch(domain:causalinf.substack.com)",
+      "WebFetch(domain:www.predoc.org)",
+      "WebFetch(domain:mpra.ub.uni-muenchen.de)",
+      "WebFetch(domain:www.economics.harvard.edu)",
+      "WebFetch(domain:www.apassalacqua.net)",
+      "WebFetch(domain:medium.com)",
+      "WebFetch(domain:scholar.harvard.edu)",
+      "WebFetch(domain:researchswinger.org)",
+      "WebFetch(domain:static1.squarespace.com)"
+    ]
+  }
+}

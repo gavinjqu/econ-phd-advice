@@ -7,11 +7,10 @@ Guidance on turning a research idea into a working paper and publication.
 - [Ricardo Dahis: Advice for Academic Research](https://www.ricardodahis.com/papers/Dahis_Advice_Research.pdf)
 - [Matthew Lebo: Managing Your Research Pipeline](https://docs.google.com/a/stonybrook.edu/viewer?a=v&pid=sites&srcid=c3Rvbnlicm9vay5lZHV8bWF0dGhldy1sZWJvfGd4OjRjNDMyMDViYTBhNjVlYTU)
 - [Sam Lynch: Managing Your Research Pipeline](https://www.drsamlynch.co.uk/post/managing-multiple-research-projects-pipeline)
-- [Jesse Shapiro: Four Steps to an Applied Micro Paper](https://www.brown.edu/Research/Shapiro/pdfs/foursteps.pdf)
 - [Amy Finkelstein: Most Projects Fail … and Other Things I've Learned (Slides)](https://econ.lse.ac.uk/staff/spischke/phds/Amy%20Finkelstein%20IAP%20talk%202006.ppt)
 - [Amy Finkelstein: An Unofficial Guide to Trying to Do Empirical Work (Slides)](https://econ.lse.ac.uk/staff/spischke/phds/Amy%20Finkelstein%20IAP%20talk%2007.ppt)
-- [Hal Varian: How to Build an Economic Model in Your Spare Time](http://www.sims.berkeley.edu/~hal/Papers/how.pdf)
-- [Ben Olken: Epic Fails in Economics](https://economics.mit.edu/files/18768)
+- [Hal Varian: How to Build an Economic Model in Your Spare Time](https://people.ischool.berkeley.edu/~hal/Papers/how.pdf)
+- [Ben Olken: Epic Fails in Economics](https://economics.mit.edu/sites/default/files/inline-files/191216_Failures.pdf)
   — Candid account of research projects that didn't work out and what to learn from them.
 - [Behavioral Science Uncovered (Podcast)](https://bsuncovered.com/)
   — Podcast on how behavioral science research is made.

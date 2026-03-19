@@ -4,8 +4,8 @@ title: "Presentations"
 
 Advice on giving effective academic presentations and seminars.
 
-- [Jesse Shapiro: How to Give an Applied Micro Talk](https://www.brown.edu/Research/Shapiro/pdfs/applied_micro_slides.pdf)
+- [Jesse Shapiro: How to Give an Applied Micro Talk](https://shapiro.scholars.harvard.edu/sites/g/files/omnuum7731/files/shapiro/files/applied_micro_slides.pdf)
 - [Monika Piazzesi: Tips on How to Avoid Disaster in Presentations](http://web.stanford.edu/~niederle/piazzesi.pdf)
 - [Kjetil Storesletten: The Ten Commandments for How to Give a Seminar](https://www.europeanjobmarketofeconomists.org/uploads/Ten-Commandments-JM-Presentation-KS.pdf)
-- [Rachael Meager: Public Speaking for Academic Economists](https://mfr.osf.io/render?url=https%3A%2F%2Fosf.io%2Fd8wm9%2Fdownload)
+- [Rachael Meager: Public Speaking for Academic Economists](https://osf.io/d8wm9/)
 - [LSE: How to Design an Award-Winning Conference Poster](https://blogs.lse.ac.uk/impactofsocialsciences/2018/05/11/how-to-design-an-award-winning-conference-poster/)

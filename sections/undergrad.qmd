@@ -21,7 +21,7 @@ gap year strategy.
 <!-- Also in applying.qmd -->
 - [Reed Walker: Paths to Graduate School (Slides)](https://drive.google.com/file/d/1WGnvGYj9qm8V2l4ynM4Vu7om3-RrM_JU/view?usp=sharing)
   — Overview of what experiences matter for admissions (see slide 8 in particular).
-- [Jesse Shapiro: Notes on Applying for a PhD in Economics](https://scholar.harvard.edu/files/shapiro/files/phdnotes.pdf)
+- [Jesse Shapiro: Notes on Applying for a PhD in Economics](https://shapiro.scholars.harvard.edu/notes-and-lectures)
 <!-- Also in applying.qmd -->
 - [Elgin et al.: So You Want to Go to Grad School in Economics?](https://drive.google.com/file/d/1KryQkyfcSBDLIY6XKVtcyvp8mv5wrOoZ/view)
   — A group-authored guide covering the full decision and preparation process.
@@ -29,8 +29,6 @@ gap year strategy.
 - [Shiv Hastawala: Advice for PhD Econ Aspirants from India](https://www.shivhastawala.com/resources/econ-phd-us-india)
   — Specific guidance for students applying from India.
 <!-- Also in applying.qmd -->
-- [Scott Cunningham: Interview with Rocío Titiunik](https://causalinf.substack.com/p/s2e14-interview-with-rocio-titiunik)
-  — Her journey to grad school and how she developed a career in RD methodology — useful perspective for undergrads weighing the path.
 
 ## Pre-Doctoral Programs and RA Positions
 
@@ -39,7 +37,7 @@ is right for you and to strengthen your application. This section is a stub —
 contributions especially welcome here!
 
 <!-- TODO: Seed with links to NBER, Fed RA programs, J-PAL/IPA predocs, Opportunity Insights, etc. -->
-- [PREDOC - Pathway to Research and Doctoral Careers](https://www.predoc.org/)
+- [PREDOC - Pathway to Research and Doctoral Careers](https://predoc.org/)
   - De facto source where most pre-doc opportunities get posted. 
 - [Riccardo Di Cato: Finding Predoc/RA Positions](https://riccardodicato.com/2021/04/23/finding_predoc_ra_positions/)
   - A compilation of resources to find pre-doctoral opportunities. 
