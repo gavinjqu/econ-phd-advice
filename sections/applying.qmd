@@ -16,6 +16,6 @@ Advice on the PhD application process, from choosing programs to writing your st
 - [Alex Lang: NSF GRFP Guide](https://www.alexhunterlang.com/nsf-fellowship)
   — Detailed guide to the NSF Graduate Research Fellowship Program.
 - [Shiv Hastawala: Advice for PhD Econ Aspirants from India](https://www.shivhastawala.com/resources/econ-phd-us-india)
-- [Jesse Shapiro: Notes on Applying for a PhD in Economics](https://scholar.harvard.edu/files/shapiro/files/phdnotes.pdf)
+- [Jesse Shapiro: Notes on Applying for a PhD in Economics](https://shapiro.scholars.harvard.edu/notes-and-lectures)
 - [Harvard-MIT Application Assistance and Mentoring Program (AAMP)](https://economics.mit.edu/academic-programs/phd-program/admissions)
 - [LSE Applicant Mentoring Program](https://sites.google.com/view/econphdamp/home)

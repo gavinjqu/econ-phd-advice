@@ -6,7 +6,7 @@ Broad advice on navigating the economics PhD from start to finish.
 
 - [Jaya Wen: Ideas That Helped Me](https://docs.google.com/document/d/1FY3ywyHNVfOHRn_dHLTvzWoMWbp51lPn64PBdkryZYw/edit)
 - [Eric Zwick: The 12 Step Program for Grad School](http://www.ericzwick.com/public_goods/twelve_steps.pdf)
-- [Matthew Pearson: How to Survive Your First Year of Graduate School in Economics](https://law.vanderbilt.edu/phd/How_to_Survive_1st_Year.pdf)
+- [Matthew Pearson: How to Survive Your First Year of Graduate School in Economics](https://sangmino.github.io/Documents/r08.pdf)
 - [Chris Roth & David Schindler: Advice for Ph.D. Students](https://raw.githubusercontent.com/cproth/papers/master/advice_for_phd_students.pdf)
 - [Ingar Haaland: Twitter Thread on PhD Advice](https://twitter.com/Ingar30/status/1685616166239436800)
 - [Berlin School of Economics: Researcher's Guide](https://berlinschoolofeconomics.de/fileadmin/user_upload/Researchers_Guide_-_web_version.pdf)
@@ -18,8 +18,7 @@ Broad advice on navigating the economics PhD from start to finish.
   — Podcast exploring the unwritten rules of academia.
 - [Chris Blattman: Various Pieces of Professional Advice](https://chrisblattman.com/)
 - [Greg Mankiw: Advice for Grad Students](http://gregmankiw.blogspot.com/2006/05/advice-for-grad-students.html)
-- [World Bank Blogs: Curated Miscellanea](https://blogs.worldbank.org/impactevaluations/curated-miscellanea-interviews-advice-policy-debates-and-commonly-referred-to-posts)
-  — Interviews, advice, policy debates, and commonly referred-to posts.
+
 - [Andrew Oswald: Things I Would Have Found Useful to Know as a Young Researcher](https://www.andrewoswald.com/docs/OswaldAdviceTalkPhDYoungfacultyresearcherswarwicktalk.pdf)
 - [Jeffrey Smith: Advice on Graduate School in Economics](https://ssc.wisc.edu/~econjeff/TEACHING/Advice%20on%20Graduate%20School%20in%20Economics%200817.pdf)
 - [Jennifer Doleac: Resource Collection](http://jenniferdoleac.com/resources/)

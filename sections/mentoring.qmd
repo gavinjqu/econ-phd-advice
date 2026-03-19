@@ -4,7 +4,7 @@ title: "Mentoring Programs"
 
 Mentoring programs and initiatives for economists at various career stages.
 
-- [Economic Science Association: Junior Women in Experimental Economics](https://www.economicscience.org/page/mentoring)
+- [Economic Science Association: Junior Women in Experimental Economics](https://www.economicscience.org/mentoring.php)
 - [AEA: Committee on the Status of Women in the Profession (CSWEP)](https://www.aeaweb.org/about-aea/committees/cswep)
 - [AEA: Committee on the Status of LGBTQ+ Individuals in the Profession](https://www.aeaweb.org/about-aea/committees/aealgbtq)
 - [EEA: Women in Economics (WinE)](https://www.eeassoc.org/committees/wine)
