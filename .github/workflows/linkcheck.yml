@@ -35,6 +35,14 @@ jobs:
           fail: false
           output: lychee-report.md
 
+      - name: Find existing broken links issue
+        id: find-issue
+        run: |
+          ISSUE_NUMBER=$(gh issue list --label broken-link --state open --json number --jq '.[0].number // empty')
+          echo "issue_number=$ISSUE_NUMBER" >> "$GITHUB_OUTPUT"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Create or update issue with broken links
         if: hashFiles('lychee-report.md') != ''
         uses: peter-evans/create-issue-from-file@v5
@@ -42,4 +50,4 @@ jobs:
           title: "Broken links report"
           content-filepath: lychee-report.md
           labels: broken-link
-          update-existing: true
+          issue-number: ${{ steps.find-issue.outputs.issue_number }}
