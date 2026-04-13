@@ -170,8 +170,32 @@ PRs should:
 
 ## Future Plans
 
+### Content Expansion
+- **Book recommendations section** — Including open textbooks (tracked in #6)
+- **Econ podcasts & media section** — Podcasts, blogs, and other media (tracked in #15)
+- **Open courses / recorded lectures section** — Curated lecture recordings and courseware (tracked in #23)
+- **Econ RA guide** — Dedicated resource for research assistants (tracked in #25)
+
+### Site Features
 - **Dashboard / visualization layer** — A future phase will add interactive visualizations of the resource collection (e.g., topic clustering, timeline of additions, most-linked domains). This will likely be a separate Quarto dashboard (`.qmd` with `format: dashboard`) or a standalone Observable/D3 page. For now, focus on clean content structure that will make this easy to build later.
-- **Metadata enrichment** — We may eventually add YAML frontmatter metadata to each link (date added, tags, resource type) to power the dashboard. Design section files so this migration is straightforward.
+- **Search & filtering** — Filter resources by tags, resource type (paper, blog, video, tool, course), and career stage (undergrad, early PhD, late PhD, job market)
+- **RSS feed** — Allow users to follow newly added resources
+- **Community contributions page** — Credit contributors to encourage participation
+
+### Workflow & Maintenance
+- **Fix duplicate link check issues** — The weekly lychee link checker currently creates a new issue each run instead of updating the existing one; fix by looking up the existing issue number before creation
+- **Auto-label PRs by section** — Use `actions/labeler` to automatically tag PRs based on which `sections/*.qmd` files they touch
+- **Link archiving** — Auto-submit URLs to the Wayback Machine Save API (monthly) so dead links have a fallback snapshot
+- **Metadata enrichment** — Eventually add structured YAML metadata per resource (title, author, url, type, tags, date_added) to power the dashboard and filtering. Planned schema:
+  ```yaml
+  - title: "Resource Title"
+    author: "Author Name"
+    url: https://example.com
+    type: paper  # paper, blog, video, tool, course
+    tags: [writing, phd]
+    date_added: 2026-03-01
+  ```
+  Defer migration until dashboard work begins; for now, design section files so this is straightforward.
 
 ## Important Notes
 

@@ -1,0 +1,63 @@
+"section: ai-research":
+  - changed-files:
+    - any-glob-to-any-file: sections/ai-research.qmd
+
+"section: applying":
+  - changed-files:
+    - any-glob-to-any-file: sections/applying.qmd
+
+"section: conferences":
+  - changed-files:
+    - any-glob-to-any-file: sections/conferences.qmd
+
+"section: datasets-coding":
+  - changed-files:
+    - any-glob-to-any-file: sections/datasets-coding.qmd
+
+"section: funding":
+  - changed-files:
+    - any-glob-to-any-file: sections/funding.qmd
+
+"section: general":
+  - changed-files:
+    - any-glob-to-any-file: sections/general.qmd
+
+"section: ideas":
+  - changed-files:
+    - any-glob-to-any-file: sections/ideas.qmd
+
+"section: ideas-to-papers":
+  - changed-files:
+    - any-glob-to-any-file: sections/ideas-to-papers.qmd
+
+"section: job-market":
+  - changed-files:
+    - any-glob-to-any-file: sections/job-market.qmd
+
+"section: mental-health":
+  - changed-files:
+    - any-glob-to-any-file: sections/mental-health.qmd
+
+"section: mentoring":
+  - changed-files:
+    - any-glob-to-any-file: sections/mentoring.qmd
+
+"section: presentations":
+  - changed-files:
+    - any-glob-to-any-file: sections/presentations.qmd
+
+"section: ra-resources":
+  - changed-files:
+    - any-glob-to-any-file: sections/ra-resources.qmd
+
+"section: refereeing":
+  - changed-files:
+    - any-glob-to-any-file: sections/refereeing.qmd
+
+"section: undergrad":
+  - changed-files:
+    - any-glob-to-any-file: sections/undergrad.qmd
+
+"section: writing":
+  - changed-files:
+    - any-glob-to-any-file: sections/writing.qmd
