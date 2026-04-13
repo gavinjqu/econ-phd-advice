@@ -29,6 +29,8 @@ jobs:
             --exclude 'twitter\.com'
             --exclude 'x\.com'
             --exclude 't\.co'
+            --exclude 'freakonomics\.com'
+            --exclude 'predoc\.org'
             _site/**/*.html
           fail: false
           output: lychee-report.md
